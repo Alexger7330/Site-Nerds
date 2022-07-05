@@ -73,6 +73,10 @@ a {
     margin-right: 45px;
 }
 
+.header__basket{
+    cursor: pointer;
+}
+
 .basket__items {
     display: flex;
     font-weight: bold;
